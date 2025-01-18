@@ -94,7 +94,7 @@
               "type": "backlink",
               "state": {
                 "file": "open-source-models-with-hugging-face.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -145,12 +145,12 @@
               "title": "open-source-models-with-hugging-face 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc5ecdc38d2b10cb",
+  "active": "90a2ef11ef0c487b",
   "lastOpenFiles": [
     "README.md",
     "open-source-models-with-hugging-face.md"
